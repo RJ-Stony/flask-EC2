@@ -60,8 +60,8 @@ HTML = """
 <body>
     <div class="container">
         <div class="logos">
-            <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="EC2 로고">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/768px-Flask_logo.svg.png" alt="Flask 로고">
+            <img src="https://miro.medium.com/v2/resize:fit:300/1*7EAZFbJMhGJ1Eo4CKEGqxw.png" alt="EC2 로고">
         </div>
         <h1>🚀 Flask 앱이 EC2에 배포되었습니다!</h1>
         <p>GitHub를 통해 배포된 Flask 웹앱입니다. 지금 EC2에서 정상 작동 중입니다.</p>
